@@ -1,0 +1,65 @@
+/* Regla 2 */
+body{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+/* Regla 1 */
+h1{
+    text-align: center;
+    color: firebrick;
+}
+
+/* Regla 1 */
+h2{
+    text-align: center;
+}
+
+/* Regla 1 */
+h4{
+    text-align: center;
+}
+
+/* Regla 5 */
+img{
+    padding-left: 20%;
+    padding-right: 20%;
+    border-radius: 25%;
+}
+ /* Regla 3 */
+div{
+    padding: 5%;
+    width: 100%;
+    border: solid rgb(139, 0, 5) 1px;
+    border-radius: 5px;
+    background-color: rgb(235, 233, 233);
+}
+/* Regla 4 */
+strong{
+    color: firebrick;
+}
+
+/* Regla 6 */
+.negrita{
+    color: black;
+}
+
+/* Regla 7 */
+#rojo{
+    color: firebrick;
+}
+
+/* Regla 8 */
+em strong{
+    background-color: black;
+}
+
+/* Regla 9 */
+strong li {
+    color: green;
+}
+
+/* Regla 10 */
+.Trojo{
+    color:firebrick ;
+}
